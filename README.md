@@ -17,6 +17,7 @@ Our system is a booking system for football playgrounds. It serves the players a
   * Book a playground, Create Profile, Payment, Mention, Search, and update time slots.
 
 ###### Definitions, acronyms, and abbreviations
+
 * Booking: the process of book a specific time slot for a specific playground.
 * Administrator: Oversees the system operations and control a whole system.
 * Playground Owner: a person how adds his playground.
