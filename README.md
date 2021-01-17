@@ -4,7 +4,7 @@ Our system is a booking system for football playgrounds. It serves the players a
 
 
 ###### Programming Languages and Tools
-* Java v8
+* Java v15
 * Eclipse Java v2019-6
 
 ###### Software Scope
